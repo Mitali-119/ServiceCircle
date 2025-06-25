@@ -23,19 +23,13 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
 ![Homepage](./public/Screenshot.jpg)
 
-## 🛠️ How to Run Locally
+## 🧑‍💻 Developer
 
 ```bash
-git clone https://github.com/Mitali-119/ServiceCircle.git
-cd ServiceCircle
-npm install
-npm run dev
-
-## 🧑‍💻 Developer
 
 **Mitali Kumari** – `Full-stack Developer`  
 🎓 B.Tech – IIT Patna  
@@ -43,3 +37,11 @@ npm run dev
 
 
 🔗 [GitHub](https://github.com/Mitali-119) | [LinkedIn](https://www.linkedin.com/in/mitali-kumari-955067220/)
+
+
+
+
+
+
+
+

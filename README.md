@@ -27,14 +27,13 @@
 
 ---
 
-## 📸 Screenshot
+## 📸 Live Preview
 
 ![Homepage](./public/Screenshot.jpg)
 
 
 ## 🧑‍💻 Developer
 
-```bash
 **Mitali Kumari** – `Full-stack Developer`  
 🎓 B.Tech – IIT Patna  
 💼 Skilled in MERN, DSA, Competitive Programming  

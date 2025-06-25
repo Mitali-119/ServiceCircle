@@ -1,6 +1,10 @@
 # ServiceCircle
 
-**ServiceCircle** is a React-based service marketplace that connects users with skilled local professionals like chefs, electricians, housekeepers, and more.
+**ServiceCircle** ServiceCircle is a modern, React-based web application designed to act as a local services marketplace. It helps users easily discover and connect with skilled service professionals in their area — including chefs, electricians, housekeepers, teachers, architects, and more.
+🔍 User-friendly Search Experience
+🧑‍🍳 Multi-step Registration for Service Providers
+📸 Visual Profiles
+ Modern Tech Stack
 
 ## 🚀 Features
 
@@ -27,10 +31,10 @@
 
 ![Homepage](./public/Screenshot.jpg)
 
+
 ## 🧑‍💻 Developer
 
 ```bash
-
 **Mitali Kumari** – `Full-stack Developer`  
 🎓 B.Tech – IIT Patna  
 💼 Skilled in MERN, DSA, Competitive Programming  

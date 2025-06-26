@@ -213,7 +213,7 @@ const [workSamplesPreview, setWorkSamplesPreview] = useState([]);
               <button
   onClick={() => {
     toast.success('Registration submitted successfully!');
-    navigate('/'); // 👈 Redirects to homepage
+    navigate('/'); // Redirects to homepage
     setRegistrationStep(1);
     setRegistrationData({
       name: '',

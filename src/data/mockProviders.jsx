@@ -1,4 +1,4 @@
-// src/data/providers.js
+
 export const mockProviders = [
   {
     id: 1,

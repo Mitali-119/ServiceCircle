@@ -1,4 +1,3 @@
-// src/components/Footer.js
 import React from 'react';
 import { Phone, Mail } from 'lucide-react';
 import { categories } from '../data/categories';

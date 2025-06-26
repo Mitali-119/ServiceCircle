@@ -1,4 +1,4 @@
-// src/data/reviews.js
+
 export const mockReviews = [
   { id: 1, name: "Alice Johnson", rating: 5, comment: "Excellent service! Very professional and punctual.", date: "2024-01-15" },
   { id: 2, name: "Bob Smith", rating: 4, comment: "Great work, would recommend to others.", date: "2024-01-10" },

@@ -39,7 +39,7 @@
 💼 Skilled in MERN, DSA, Competitive Programming  
 
 
-🔗 [GitHub](https://github.com/Mitali-119) | [LinkedIn](https://www.linkedin.com/in/mitali-kumari-955067220/)
+🔗 [GitHub](https://github.com/Mitali-119) | [LinkedIn](https://www.linkedin.com/in/mitali-kumari-6a196828a)
 
 
 

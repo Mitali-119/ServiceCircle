@@ -1,4 +1,4 @@
-// src/data/categories.js
+
 export const categories = [
   { id: 'chef', name: 'Chef', icon: '👨‍🍳', color: 'bg-orange-500' },
   { id: 'teacher', name: 'Teacher', icon: '👩‍🏫', color: 'bg-blue-500' },

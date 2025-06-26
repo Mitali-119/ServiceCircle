@@ -29,6 +29,10 @@
 
 ## 📸 Live Preview
 
+Check out the live deployed version of ServiceCircle here:
+🔗   https://service-circle-sable.vercel.app/
+
+
 ![Homepage](./public/Screenshot.jpg)
 
 
@@ -40,6 +44,7 @@
 
 
 🔗 [GitHub](https://github.com/Mitali-119) | [LinkedIn](https://www.linkedin.com/in/mitali-kumari-6a196828a)
+
 
 
 
